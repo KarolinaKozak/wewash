@@ -1,0 +1,49 @@
+{
+    "settings": {
+      "desktop": {
+        "pagination": true,
+        "arrows": true,
+        "backgroundImage": "https://example.com/desktop-background.jpg"
+      },
+      "mobile": {
+        "pagination": false,
+        "arrows": false,
+        "backgroundImage": "https://example.com/mobile-background.jpg"
+      }
+    },
+    "testimonials": [
+      {
+        "headline": "I'm so impressed with this service!",
+        "avatar": "https://example.com/avatar1.jpg",
+        "name": "John Doe",
+        "duration": 5,
+        "isActive": true,
+        "timestamp": 1649444400
+      },
+      {
+        "headline": "This product exceeded my expectations.",
+        "avatar": "https://example.com/avatar2.jpg",
+        "name": "Jane Smith",
+        "duration": 7,
+        "isActive": false,
+        "timestamp": 1649358000
+      },
+      {
+        "headline": "The support team was incredibly helpful.",
+        "avatar": "https://example.com/avatar3.jpg",
+        "name": "Bob Johnson",
+        "duration": 6,
+        "isActive": false,
+        "timestamp": 1649354400
+      },
+      {
+        "headline": "I've never seen such amazing results!",
+        "avatar": "https://example.com/avatar4.jpg",
+        "name": "Samantha Lee",
+        "duration": 4,
+        "isActive": false,
+        "timestamp": 1649268000
+      }
+    ]
+  }
+  
